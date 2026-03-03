@@ -1,0 +1,34 @@
+{
+  "name": "network-speed",
+  "version": "1.0.0",
+  "description": "Test network download/upload speed and latency from the terminal. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "network-speed": "./index.js",
+    "netspeed": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "network",
+    "speed-test",
+    "bandwidth",
+    "latency",
+    "internet"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/network-speed.git"
+  },
+  "homepage": "https://github.com/NickCirv/network-speed#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/network-speed/issues"
+  }
+}
