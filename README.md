@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # network-speed
 
 Test network download/upload speed and latency from the terminal. **Zero external dependencies** — built-in Node.js modules only.
